@@ -10,5 +10,6 @@ There are multiple parameter triplets, and all the identification techniques and
    
 
 ## How to run the experiment?
+Before running the experiment, make sure that you already installed all the python packages (i.e., pm4py, os, bs4). Also you need to download java to run the entropia package (for the precision and recall calculation). If everything is already, use this command `python3 agent_miner_main.py` to run.
 
 ## What are the outputs of the experiment?
